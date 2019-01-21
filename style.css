@@ -14,7 +14,7 @@ h1 {
   font: 3rem Roboto, arial;
   text-shadow: 0px 0px 5px rgba(100, 100, 100, 0.9);
   color: white;
-  animation: pulse 3s infinite alternate both ease-in;
+  animation: pulse 2s infinite alternate both ease-in;
 }
 
 @keyframes pulse {
